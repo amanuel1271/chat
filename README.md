@@ -24,6 +24,7 @@ Users need to specify their name and the room they want to join. Users can also 
 [Link to the app](https://papaya-eclair-39d0b9.netlify.app/)
 
 # Demo
-![www_screencapture_com_2022-7-11_14_58__online-video-cutter_com___1__AdobeExpress (1)](https://user-images.githubusercontent.com/50099232/178200311-d812c951-891a-4b95-8c72-1b7e910e121e.gif)
 
+
+![www_screencapture_com_2022-7-11_14_58 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/50099232/178200706-e19aadd6-005e-4e4d-a30e-0878d1f7230e.gif)
 
