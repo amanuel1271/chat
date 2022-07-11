@@ -12,3 +12,15 @@ Users need to specify their name and the room they want to join. Users can also 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+
+# Design
+
+- It uses Express js and other libraries to navigate between the frontend and handling the routes. I used React for the frontend.
+- Uses socket.io to establish a two way communication
+- Deployed the front end on netlify
+- Deployed the back end on heroku
+
+# Live 
+[Link to the app](https://papaya-eclair-39d0b9.netlify.app/)
+
+# Demo
